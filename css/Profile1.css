@@ -1,0 +1,61 @@
+.profile-pic
+{
+
+	height: 250px;
+	margin: 23% 16% 3% 11%;
+
+}
+.profile-username
+{
+	    margin: 3% 13% 3% 15%;
+}
+.profile-1st
+{
+	background: white;
+    margin-top: 2%;
+}
+.flex-column .nav-item a
+{
+    margin-top: 2%;
+    background: #f9f9f9;
+    color: #152c87;
+    font-family: arial;
+    font-size: 16px;
+    border-bottom: 2px solid #f9f9f9;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    /* border-radius: 5px; */
+    /*text-align: center;*/
+        font-weight: 600;
+}
+.flex-column .nav-item a:hover
+{
+   
+     margin-top: 2%;
+    background: white;
+    color: #152c87;
+    font-family: arial;
+    font-size: 16px;
+    border-bottom: 2px solid #dee4f2;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    /* border-radius: 5px; */
+    /* text-align: center; */
+    font-weight: 600;
+    padding-left: 24px;
+    box-shadow: 2px 2px 3px rgba(201, 200, 212, 0.8);
+    transform: scale(1.05);
+    transition: 0.4s;
+    
+} 
+/*margin-top: 2%;
+    background: #a5cbeb;
+    color: white;
+    font-family: arial;
+    font-size: 16px;
+    border-bottom: 2px solid #404ac5;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+     border-radius: 5px; 
+    transform: scale(1.03);
+    transition: 0.3s;*/

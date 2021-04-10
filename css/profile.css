@@ -1,0 +1,27 @@
+.profile-pic
+{
+	background: red;
+	height: 250px;
+	margin: 23% 16% 3% 11%;
+
+}
+.profile-username
+{
+	    margin: 3% 13% 3% 15%;
+}
+.profile-1st
+{
+	background: white;
+}
+.nav-item a
+{
+	background: #a5cbeb;
+    color: white;
+    font-family: arial;
+    font-size: 19px;
+    border-bottom: 2px solid #404ac5;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    /* border-radius: 5px; */
+    text-align: center;
+}
